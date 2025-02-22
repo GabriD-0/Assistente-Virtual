@@ -68,7 +68,7 @@ URI=http://localhost:8888/callback
 2. **Execute o script:**
 
    ```bash
-   python seu_script.py
+   python AssistenteVirtual.py
    ```
 
 3. **Interaja com o Assistente:**  
